@@ -1,0 +1,1 @@
+Las imagenes entran al PUNTO 1 como PNG, las tif nuevas de Rudy no salen bien. Sin embargo, la original de la tarea, si sale el tif bien
